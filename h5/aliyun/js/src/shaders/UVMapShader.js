@@ -1,0 +1,1 @@
+var UVMapShader={uniforms:{},vertexShader:Utils.loadTextFileInject("shaders/UVMapShader.vs.tpl"),fragmentShader:Utils.loadTextFileInject("shaders/UVMapShader.fs.tpl")};
